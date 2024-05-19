@@ -6,3 +6,5 @@ use this command in all three fodders frontend ,backend,admin
 
 
 and must update mongodburl in backend/config/db.js
+
+and update backend/controller/ordercontroller and update localhost url and port
