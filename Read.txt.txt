@@ -1,0 +1,8 @@
+make to install all packages 
+
+make sure to install node modules using 
+npm install 
+use this command in all three fodders frontend ,backend,admin
+
+
+and must update mongodburl in backend/config/db.js

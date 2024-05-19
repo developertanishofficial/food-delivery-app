@@ -1,0 +1,21 @@
+/api/user/login
+/api/user/register
+/api/food/list
+/api/food/orer
+/api/food/add
+"/images/"+image
+/api/cart/remove
+api/cart/add
+api/cart/get
+/api/order
+/api/order/place
+/verify
+/myorders
+/userorders
+api/order/userorders
+
+
+
+
+
+ordercontroller.jsx - 12
